@@ -1,7 +1,7 @@
 #!/bin/bash
 sudo apt update
 sudo apt-get full upgrade -y
-sudo apt-get install python3-pip
+sudo apt-get install python3-pip -y
 git clone https://github.com/shalu212/Agri.git
 cd Agri
 pip3 freeze > requirements.txt
