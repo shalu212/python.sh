@@ -1,4 +1,5 @@
 #!bin/bash
+sudo yum -y install python3-pip
 git clone https://github.com/shalu212/Agri.git
 cd Agri
 pip3 install -r requirements.txt
