@@ -2,10 +2,7 @@
 sudo apt update
 sudo apt-get full upgrade -y
 sudo apt-get install python3-pip -y
-apt-get install sox ffmpeg libcairo2 libcairo2-dev
-apt-get install texlive-full
-pip3 install manimlib 
-pip3 install manimce
+sudo apt-get install pkg-config -y
 git clone https://github.com/shalu212/Agri.git
 cd Agri
 pip3 install -r requirements.txt
