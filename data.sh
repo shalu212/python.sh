@@ -7,14 +7,14 @@ sudo apt-get install pkg-config -y
 git clone https://github.com/shalu212/Agri.git
 cd Agri
 pip3 install -r requirements.txt
-nohup python3 app.py &
+python3 app.py &
 
 git clone https://github.com/shalu212/Fuel-Consumption-Rating.git
 cd Fuel-Consumption-Rating
 pip3 install -r requirements.txt
-nohup python3 app.py &
+python3 app.py &
 
 git clone https://github.com/shalu212/fish.git
 cd fish
 pip3 install -r requirements.txt
-nohup python3 app.py &
+python3 app.py &
