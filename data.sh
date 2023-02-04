@@ -9,7 +9,7 @@ cd Agri
 pip3 install -r requirements.txt
 python3 app.py &
 
-git clone https://github.com/shalu212/Fuel-Consumption-Rating.git
+https://github.com/shalu212/Fuel-Consumption-Rating.git
 cd Fuel-Consumption-Rating
 pip3 install -r requirements.txt
 python3 app.py &
