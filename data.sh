@@ -8,8 +8,8 @@ cd Agri
 pip3 install -r requirements.txt
 screen -m -d python3 app.py
 
-git clone https://github.com/shalu212/Medical-Insurance.git
-cd Medical-Insurance
+git clone https://github.com/shalu212/flight-perdiction.git
+cd /flight-perdiction
 pip3 install -r requirements.txt
 screen -m -d python3 app.py
 
