@@ -2,19 +2,23 @@
 python-proects
 Deploy flask/python web application using git, 
 GitHub, Jenkins, in AWS cloud platform
- INTRODUCTION
+
+INTRODUCTION
 what is Flask?
- flask is a small lightweight python web framework that provides useful tools and features that make 
+flask is a small lightweight python web framework that provides useful tools and features that make 
 creating web applications in python easier.
- it gives developers flexibility and is more accessible framework for new developers since you can 
+it gives developers flexibility and is more accessible framework for new developers since you can 
 build a web application quickly using only a single python file.
+
 What is Python?
- python is a computer programming language often used to build websites and software, automate 
+python is a computer programming language often used to build websites and software, automate 
 tasks, and conduct data analysis.
+
 what is pip?
  PIP is a package manager for python packages or modules.
  Note: if you have python version 3.4 or later, PIP is included by default
  PIP-Package Installer for Python I
+
 PRE-REQUISITES:
  AWS Account (Root Account)
  IAM User
@@ -31,6 +35,7 @@ Services/tools used:
  GitHub
  Jenkins
  Terraform
+
 STEP-BY-STEP PROCEDURE:
  Create and login to AWS Root account
  Create and login to IAM user from root account along with EC2 full access, 
